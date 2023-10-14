@@ -10,8 +10,6 @@ Merge Sort,bir array’i ortadan ikiye bölerek alt array’ler oluşturup taa k
 
 *   En sonda 3lü array’ler kaldığında compare edilerek tek bir array haline getirilir.
 
-*   Debug edilerek daha iyi anlaşılabilir.!!!!!!!!!!
-
 
 ```
 
